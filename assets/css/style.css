@@ -14,10 +14,6 @@ body {
   text-align: center;
 }
 
-img {
-  width: 12%;
-  margin-bottom: 20px;
-}
 h1 {
   color: aqua;
 }
@@ -40,19 +36,3 @@ a:hover {
   /*Invert the colors of anchor element when hovered*/
   filter: invert(1);
 }
-
-#todays-challenge:hover {
-  /* Transform the element by scaling the size*/
-  transform: scale(1.1, 1.1);
-}
-
-/* Styling for full-week.html */
-.upcoming-challenge {
-  font-size: x-large;
-}
-
-.upcoming-challenge:hover {
-  /* Transform the element by scaling the size*/
-  transform: scale(1.1, 1.1);
-}
-/* End of code for full-week.html */
